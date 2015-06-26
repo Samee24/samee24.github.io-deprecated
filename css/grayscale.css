@@ -311,6 +311,15 @@ display: inline-block;
 opacity: 1;
 }
 
+.linkedin{
+opacity: 0.6;
+display: inline-block;
+}
+
+.linkedin:hover{
+opacity: 1;
+}
+
 .email{
 opacity: 0.6;
 margin-bottom: 0.5em;
@@ -345,11 +354,6 @@ opacity: 1;
 
     .download-section {
         padding: 100px 0;
-    }
-
-    #map {
-        height: 400px;
-        margin-top: 250px;
     }
 }
 
