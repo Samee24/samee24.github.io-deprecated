@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/samee
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://samee.ninja
+  * I am samee (https://keybase.io/samee) on keybase.
+  * I have a public key with fingerprint 4EA4 C500 DAB9 C604 CA6F  0D2D 9092 7DF9 9922 16B3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010169519db8851b1a32d10cc2b316f535b0b8c3cfcd1e279e6c732b0d44c159d3940a",
+            "fingerprint": "4ea4c500dab9c604ca6f0d2d90927df9992216b3",
+            "host": "keybase.io",
+            "key_id": "90927df9992216b3",
+            "kid": "010169519db8851b1a32d10cc2b316f535b0b8c3cfcd1e279e6c732b0d44c159d3940a",
+            "uid": "02f1d9c6d53c0d8fc82f7515fb99c019",
+            "username": "samee"
+        },
+        "service": {
+            "hostname": "samee.ninja",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1463341365,
+    "expire_in": 157680000,
+    "prev": "6a30913083de4f5206bbd36a1b14927cd2cef5c65a5be707852918424ddfc0d6",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIeAnicrVJbSBVRFL1qPjKsJHoaBBP0JXbOzJy5c64lFYJYQhmRPbTbnMdcp3Tm
+eu94S62fArMgiyLplmX5YyFCUJCFhoaEZe+gougjMsKIyh6IZtiZHtBHn52fzdl7
+7bXX2uy+jCRfesLhI7tH49KsiwkDvUeqfSX6A1QnEYfVSIE6aTv/GXgF41E3uN1i
+UkACEEANI4gZ0XUECTQUmUFAqUwUqJlIQQQQnSrUpAxy2Y+5Rv2KTABTVQoRZgpW
+gSFlS6Zlh3gkHLFsV9Cq3FApAoAZBFMNqNTQTMBkhgGW/czEGMsy1IgiGsudqNch
+xBEjynMsR+TEJ/hT3j/w/1l39S862YRMKGVIoYDpJtVl048gMgnGFEDsAaM8YhuV
+XKCjInBpd7YkUjGLcm+rno2/yzm2ZW/zBoQjjutQp0IUyl03HPD63JqwB9zBSfA3
+RZBYNhMrFA0xHolaji0FoEBS1/I4oaopigoVDWVLfGfYivCg5SGQX9OBeN4YHhOU
+mqEADBWgK4yrJpKBRghTNENsSBWrpEym3ERUQwYi3A/8OpIx1FVZZcwUzjXJM1Vl
+O1JATHKNkGfHCtmGWx0Rjq/3lE7yJaT7UpITvdPypU+e/ufg3vWn+U59LCjKnNJy
+tjH5Pd0yIVfWt38qnDPyVGpeljQylFg1lHsBrjTzNluzJ2tfNyQlL2roHH7ZN7Bx
+5sWBmFscy+stSlk6ViJ37w8ZhZ098Y6BjIdnsp2siufWtSXDd8qGa6+Glu9paDLG
+7p8+FF8wtcXqclNXpXy+MXff6ku38scHW9fFfZU5D4qH629fNhryC7pfNW4NbEs5
+0bW4tm56ZPHYvY6zLW3jK96k7910buLb0S8nl9c2Za55sr70Jk/VWw5MU1+Ur3+c
+9Uy727xq3sTH+WztxtGFufWtqGscvyaP288XvQ1cCZfFa77PGKxL0890j7YdO979
+Id5/EDXtWl0aPv3oB0LYQHs=
+=PHb5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samee
+
+==================================================================
